@@ -3,3 +3,4 @@ build/
 *.userdb/
 user.yaml
 installation.yaml
+default.custom.yaml
