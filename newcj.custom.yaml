@@ -1,0 +1,15 @@
+patch:
+  # 1. Turn off the main sentence/phrase learning translator
+  translator/enable_user_dict: false
+  translator/enable_sentence: false
+  translator/enable_completion: false
+
+  # 2. Turn off memory for secondary or reverse lookup translators (if any)
+  reverse_lookup/enable_user_dict: false
+  reverse_lookup/enable_sentence: false
+  patch:
+  
+  # Configure the switch keys
+  "ascii_composer/switch_key/Shift_L": commit_code
+  "ascii_composer/switch_key/Shift_R": commit_code
+
