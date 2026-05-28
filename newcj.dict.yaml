@@ -24,7 +24,7 @@ encoder:
       formula: "AaAzBaBzCz"
     - length_in_range: [4, 10]
       formula: "AaBzCaYzZz"
-  tail_anchor: "'"
+  # tail_anchor: "'"
 ...
 
 、	'

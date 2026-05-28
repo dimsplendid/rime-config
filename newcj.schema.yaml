@@ -53,7 +53,7 @@ engine:
     - single_char_filter
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba,./;?[]
+  alphabet: "zyxwvutsrqponmlkjihgfedcba,./;?[]'"
   delimiter: ' '
   auto_select: true
   max_code_length: 5 # 形碼最大碼長，超過則頂字上屛
