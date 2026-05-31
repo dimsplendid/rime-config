@@ -7,9 +7,18 @@ patch:
   # 2. Turn off memory for secondary or reverse lookup translators (if any)
   reverse_lookup/enable_user_dict: false
   reverse_lookup/enable_sentence: false
-  patch:
   
   # Configure the switch keys
   "ascii_composer/switch_key/Shift_L": commit_code
   "ascii_composer/switch_key/Shift_R": commit_code
+
+  
+  # Disable auto-commit on 5 characters (Force spacebar to commit)
+  "speller/commit_on_completion": false
+
+  # Prevent typos from committing as English characters
+  # Forces invalid combinations to stay in the pre-edit buffer until corrected
+  "speller/max_code_length": 0
+  "speller/auto_select": false
+
 
