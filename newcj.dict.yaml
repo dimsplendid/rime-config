@@ -1511,6 +1511,7 @@ encoder:
 骵	bbdm
 愛	bbe
 受	bbe
+受	bbe;
 鵬	bbf
 臞	bbg
 贖	bbgc
@@ -5201,15 +5202,15 @@ encoder:
 櫧	dya
 樴	dya
 樴	dya;
-槁	dyb
 柿	dyb
+槁	dyb
 樀	dyb
 樆	dyb
 棛	dyb
 楴	dyb
 檛	dyb
 樋	dyb
-柿	dyb;
+槁	dyb;
 樀	dyb;;
 楨	dyc
 檁	dyd
@@ -10501,6 +10502,7 @@ encoder:
 刮	hrln
 劄	hrln
 劄	hrln;
+靠	hrly
 師	hrmb
 頧	hrmc
 頟	hrmc
@@ -14758,6 +14760,7 @@ encoder:
 鬸	mbhw
 鬸	mbhw;
 戞	mbi
+麗	mbip
 鬴	mbib
 霋	mbjv
 耎	mbk
@@ -16958,6 +16961,7 @@ encoder:
 亜	mxm;
 亚	mxm;;
 歃	mxno
+麗	mxp
 畱	mxw
 敮	mxye
 下	my
@@ -21428,6 +21432,7 @@ encoder:
 拪	qmw;;
 纛	qmwf
 毒	qmwj
+毒	qmwk
 毒	qmwy
 插	qmx
 打	qn
@@ -29135,8 +29140,6 @@ encoder:
 圝	wvf;
 羉	wvf;;
 羅	wvg
-罗	wvg
-罗	wvg;
 䴉	wvhf
 羄	wvj
 翾	wvsm
