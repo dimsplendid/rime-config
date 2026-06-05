@@ -2837,6 +2837,9 @@ encoder:
 鍏	cdq
 鑻	cdq
 鑻	cdq;
+銃	cdu
+鋶	cdu
+鋶	cdu;
 鍊	cdw
 錬	cdw
 錬	cdw;
@@ -3881,11 +3884,13 @@ encoder:
 楬	dav;
 欄	daw
 櫩	dax
+育	db
 構	db
 朿	db
 枂	db
-朿	db;
-枂	db;;
+構	db;
+朿	db;;
+枂	db;;;
 棚	dbb
 榾	dbb
 楇	dbb
@@ -4036,6 +4041,7 @@ encoder:
 懋	ddp
 椲	ddq
 樷	ddse
+梳	ddu
 婪	ddv
 棟	ddw
 楝	ddw
@@ -4234,7 +4240,7 @@ encoder:
 枡	dht
 桖	dht
 桖	dht;
-概	dhu
+充	dhu
 橇	dhu
 梔	dhu
 楯	dhu
@@ -5008,11 +5014,13 @@ encoder:
 横	dtc
 棋	dtc;
 椪	dtc;;
+棄	dtd
 楳	dtd
 檏	dtd
 欁	dtd
-檏	dtd;
-欁	dtd;;
+楳	dtd;
+檏	dtd;;
+欁	dtd;;;
 樣	dte
 欉	dte
 檴	dte
@@ -5183,6 +5191,7 @@ encoder:
 楐	dwl
 楐	dwl;
 槶	dwm
+夣	dwn
 楒	dwp
 棝	dwr
 楞	dws
@@ -5573,7 +5582,9 @@ encoder:
 沫	edj
 決	edk
 潄	edk
+澈	edk
 潄	edk;
+澈	edk;;
 淅	edl
 涑	edl
 涑	edl;
@@ -5592,7 +5603,9 @@ encoder:
 淶	edo;
 濋	edo;;
 湋	edq
+流	edu
 湘	edu
+湘	edu;
 漤	edv
 湅	edw
 涷	edw
@@ -10146,6 +10159,7 @@ encoder:
 筡	hod;
 筱	hod;;
 彼	hode
+徹	hodk
 衛	hodn
 衞	hodn
 衞	hodn;
@@ -10309,8 +10323,6 @@ encoder:
 徏	hoyh
 斞	hoyj
 徹	hoyk
-彻	hoyk
-彻	hoyk;
 衒	hoyn
 徙	hoyo
 徿	hoyp
@@ -12145,6 +12157,7 @@ encoder:
 寘	jjc
 輍	jjcr
 宯	jjd
+轍	jjdk
 韓	jjdq
 ＃	jje
 輟	jjee
@@ -14926,6 +14939,7 @@ encoder:
 礎	mdo
 厯	mdp
 厯	mdpi
+硫	mdu
 歷	mdym
 歴	mdym
 歴	mdym;
@@ -15743,6 +15757,7 @@ encoder:
 酚	mmch
 栗	mmd
 酎	mmdi
+巰	mmdu
 廈	mme
 厦	mme
 厦	mme;
@@ -16230,6 +16245,7 @@ encoder:
 礎	mrdo
 础	mrdo
 础	mrdo;
+硫	mrdu
 泵	mre
 砅	mre
 碬	mre
@@ -17942,6 +17958,7 @@ encoder:
 弙	nmd
 弙	nmd;
 疎	nmdl
+疏	nmdu
 彞	nmft
 陻	nmg
 鶸	nmhf
@@ -20881,6 +20898,8 @@ encoder:
 耱	qdir;
 抹	qdj
 抉	qdk
+撤	qdk
+撤	qdk;
 耞	qdkr
 捒	qdl
 耬	qdlv
@@ -24653,7 +24672,9 @@ encoder:
 藲	tds
 葙	tdu
 萙	tdu
+茺	tdu
 萙	tdu;
+茺	tdu;;
 萰	tdw
 菄	tdw
 菄	tdw;
@@ -26477,6 +26498,8 @@ encoder:
 嶔	uco
 峪	ucr
 衛	ud
+徹	ud
+徹	ud;
 崊	udd
 彼	ude
 岥	ude
@@ -26485,6 +26508,7 @@ encoder:
 崧	udi
 嶘	udi
 嶘	udi;
+徹	udk
 嵖	udm
 衛	udn
 衞	udn
@@ -27353,7 +27377,9 @@ encoder:
 綀	vfdl
 絊	vfdm
 緯	vfdq
+統	vfdu
 緗	vfdu
+緗	vfdu;
 練	vfdw
 灓	vfe
 縔	vfed
@@ -28456,6 +28482,7 @@ encoder:
 欒	vvd
 紂	vvdi
 緯	vvdq
+統	vvdu
 練	vvdw
 綠	vve
 娽	vve
