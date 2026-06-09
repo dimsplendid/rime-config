@@ -3700,10 +3700,10 @@ encoder:
 鏆	cwc;
 錁	cwd
 鏍	cwf
-鑼	cwg
 鋰	cwg
+鑼	cwg
 鑸	cwg
-鋰	cwg;
+鑼	cwg;
 鑸	cwg;;
 鐲	cwi
 鐸	cwj
@@ -19918,6 +19918,7 @@ encoder:
 偨	oyd
 儏	oyd
 儏	oyd;
+毓	oydu
 俶	oye
 倞	oyf
 住	oyg
@@ -27735,6 +27736,7 @@ encoder:
 纜	vfsu
 絶	vfsu
 紀	vfsu;
+纜	vfsu;;
 纜	vfsuu
 縑	vftc
 綨	vftc
@@ -28625,6 +28627,7 @@ encoder:
 紀	vvsu
 纜	vvsu
 紀	vvsu;
+纜	vvsu;;
 纜	vvsuu
 縑	vvtc
 緙	vvtj
