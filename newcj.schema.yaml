@@ -56,7 +56,7 @@ speller:
   alphabet: "zyxwvutsrqponmlkjihgfedcba,./;?[]'"
   delimiter: ' '
   auto_select: true
-  max_code_length: 5 # 形碼最大碼長，超過則頂字上屛
+  max_code_length: 10 # 形碼最大碼長，超過則頂字上屛
 
 translator:
   dictionary: newcj
@@ -73,8 +73,8 @@ translator:
     - '^z.*$'
     - '^yyy.*$'
 
-simplifier:
-  tips: all # 簡化字模式下提示對應的傳統漢字
+# simplifier:
+#   tips: all # 簡化字模式下提示對應的傳統漢字
 
 punctuator:
   import_preset: symbols

@@ -7,6 +7,6 @@ customization:
 patch:
   style/color_scheme: solarized_rock
   style/horizontal: true      # 候選橫排
-  style/inline_preedit: true  # 內嵌編碼（僅支持TSF）
+  # style/inline_preedit: true  # 內嵌編碼（僅支持TSF）
   style/font_point: 12
   style/font_face: "Sarasa Mono TC"
