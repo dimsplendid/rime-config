@@ -1,2 +1,5 @@
 patch:
   style/color_scheme: "solarized_light"
+  # style/color_scheme: aqua
+  style/candidate_list_layout: linear  # Sets the candidate layout to horizontal (linear)
+  style/text_orientation: horizontal   # Sets text flow from left to right
