@@ -6,7 +6,7 @@
 name: "newcj"
 version: "0.3"
 sort: by_weight
-#use_preset_vocabulary: true
+# use_preset_vocabulary: true
 max_phrase_length: 7
 min_phrase_weight: 100
 columns:
@@ -39,6 +39,7 @@ encoder:
 〞	'';;;
 ，	,
 ！	,,
+……	,,,
 Ⅲ	,,e
 〣	,,ee
 Ⅷ	,,i
@@ -1269,6 +1270,7 @@ encoder:
 闓	anut
 闗	anvf
 關	anvt
+闗	anvv
 閫	anwd
 閘	anwl
 闤	anwv
@@ -3687,6 +3689,8 @@ encoder:
 鐑	cvr
 鐑	cvr;
 鑞	cvv
+銯	cvv
+銯	cvv;
 錙	cvw
 鍿	cvw
 鍿	cvw;
@@ -4923,8 +4927,6 @@ encoder:
 槢	dsa
 榍	dsb
 櫃	dsc
-柜	dsc
-柜	dsc;
 樼	dsd
 梫	dse
 棷	dse
@@ -5132,8 +5134,7 @@ encoder:
 榿	dut
 柮	duu
 紮	duvf
-扎	duvf
-扎	duvf;
+紮	duvv
 根	dv
 檰	dvb
 櫟	dvd
@@ -5452,14 +5453,11 @@ encoder:
 溟	ebc
 浿	ebc
 浿	ebc;
-深	ebd
 淨	ebd
 浮	ebd
-深	ebd;
-淨	ebd;;
-浮	ebd;;;
-淨	ebdd
-浮	ebdf
+深	ebd
+浮	ebd;
+深	ebd;;
 湲	ebe
 涭	ebe
 涭	ebe;
@@ -7751,6 +7749,8 @@ encoder:
 亃	fqu
 絭	fqvf
 粼	fqvv
+絭	fqvv
+絭	fqvv;
 齤	fqyu
 營	fr
 嘗	fra
@@ -8379,6 +8379,7 @@ encoder:
 鞤	gitj
 埌	giv
 縶	givf
+縶	givv
 戴	giwc
 謺	giyr
 裁	giyv
@@ -9484,6 +9485,7 @@ encoder:
 箲	heu;
 媻	hev
 縏	hevf
+縏	hevv
 籓	hew
 冬	hey
 黐	heyb
@@ -9882,6 +9884,7 @@ encoder:
 岙	hku
 岙	hku;
 綮	hkvf
+綮	hkvv
 譥	hkyr
 譥	hkz
 所	hl
@@ -10797,6 +10800,7 @@ encoder:
 鼹	hvsv;
 鼸	hvtc
 兜	hvu
+系	hvv
 鼺	hvww
 鼤	hvyk
 重	hw
@@ -11134,6 +11138,7 @@ encoder:
 厢	idu;
 縻	idvf
 麼	idvi
+縻	idvv
 度	ie
 氷	ie
 氷	ie;
@@ -11897,6 +11902,7 @@ encoder:
 囊	jbrv
 蟗	jbui
 索	jbvf
+索	jbvv
 疐	jbwo
 穴	jc
 窤	jcap
@@ -12061,8 +12067,9 @@ encoder:
 麷	jeut
 繫	jevf
 繋	jevf
-系	jevf
 繋	jevf;
+繫	jevv
+繋	jevv;
 麶	jeyb
 察	jf
 宵	jfb
@@ -19095,6 +19102,7 @@ encoder:
 傄	oku
 傄	oku;
 繁	okvf
+繁	okvv
 矲	okwp
 仲	ol
 ⑲	ol
@@ -20822,12 +20830,12 @@ encoder:
 静	qbbd;
 靚	qbbu
 採	qbd
-探	qbd
 掙	qbd
+探	qbd
 捊	qbd
 挣	qbd
-探	qbd;
-掙	qbd;;
+掙	qbd;
+探	qbd;;
 捊	qbd;;;
 掙	qbdd
 捊	qbdf
@@ -21110,6 +21118,7 @@ encoder:
 挀	qhv
 挀	qhv;
 絜	qhvf
+絜	qhvv
 播	qhw
 插	qhx
 挿	qhx
@@ -21175,6 +21184,7 @@ encoder:
 摡	qiu;;
 揻	qiv
 絷	qivf
+絷	qivv
 攟	qiw
 攠	qiy
 技	qj
@@ -21447,6 +21457,7 @@ encoder:
 振	qmv
 振	qmv;
 素	qmvf
+素	qmvv
 擂	qmw
 揊	qmw
 拪	qmw
@@ -21802,6 +21813,7 @@ encoder:
 拙	quu
 嫢	quv
 紥	quvf
+紥	quvv
 接	qv
 摷	qvd
 擽	qvd
@@ -23315,6 +23327,7 @@ encoder:
 民	rvp
 呦	rvs
 嗈	rvu
+噝	rvv
 戰	rw
 喟	rwb
 喁	rwb
@@ -23541,6 +23554,9 @@ encoder:
 緊	sevf
 繄	sevf
 繄	sevf;
+緊	sevv
+繄	sevv
+繄	sevv;
 黳	sewf
 竪	seyt
 緊	sf
@@ -24042,6 +24058,9 @@ encoder:
 聯	sjvt
 聨	sjvt
 聨	sjvt;
+繴	sjvv
+聮	sjvv
+聮	sjvv;
 職	sjya
 恥	sjym
 耻	sjym
@@ -24083,6 +24102,7 @@ encoder:
 臦	slsl
 屢	slv
 綤	slvf
+綤	slvv
 匪	sly
 屝	sly
 臥	sly
@@ -24634,6 +24654,7 @@ encoder:
 葐	tct
 莌	tcu
 綦	tcvf
+綦	tcvv
 酋	tcw
 黈	tcyg
 斢	tcyj
@@ -26176,6 +26197,10 @@ encoder:
 蒓	tvu;
 莼	tvu;;
 葌	tvv
+蕠	tvv
+蕬	tvv
+蕠	tvv;
+蕬	tvv;;
 菑	tvw
 蘠	tvw
 葘	tvw
@@ -27302,7 +27327,6 @@ encoder:
 約	vf
 糹	vf
 糹	vf;
-约	vf;;
 綉	vf;s
 緌	vf;v
 曫	vfa
@@ -28327,6 +28351,7 @@ encoder:
 姄	vrp;
 挐	vrq
 絮	vrvf
+絮	vrvv
 紀	vs
 婦	vsb
 娵	vse
@@ -29035,6 +29060,7 @@ encoder:
 羉	wlvf
 羅	wlvg
 羄	wlvj
+羉	wlvv
 罼	wlwj
 奰	wlwk
 罳	wlwp
@@ -29175,6 +29201,11 @@ encoder:
 䴉	wvhf
 羄	wvj
 翾	wvsm
+累	wvv
+圝	wvv
+羉	wvv
+圝	wvv;
+羉	wvv;;
 」	ww
 畕	ww
 畕	ww;
@@ -30082,6 +30113,7 @@ encoder:
 逩	ykt
 紊	ykvf
 辮	ykvj
+紊	ykvv
 辯	ykyj
 齾	ykyu
 虠	ykyu
@@ -30205,7 +30237,9 @@ encoder:
 遹	ynb
 遹	ynb;
 椉	ynd
+烹	ynf
 遜	ynf
+遜	ynf;
 鵉	ynhf
 逸	yni
 歺	yni
@@ -30335,6 +30369,7 @@ encoder:
 姕	ypv
 姕	ypv;
 紫	ypvf
+紫	ypvv
 膚	ypwb
 歶	ypwb
 肤	ypwb
@@ -32022,3 +32057,9 @@ encoder:
 ㄈ	zzz
 譶	zzz
 譶	zzz;
+# latex addon
+# TODO: 可參考 https://github.com/DenverCoder1/latex-gboard-dictionary/blob/master/dictionary.txt
+Δ	xdelta
+°	xdegree
+±	xpm
+

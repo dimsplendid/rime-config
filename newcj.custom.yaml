@@ -3,6 +3,7 @@ patch:
   translator/enable_user_dict: false
   translator/enable_sentence: false
   translator/enable_completion: false
+  # translator/enable_completion: true
 
   # 2. Turn off memory for secondary or reverse lookup translators (if any)
   reverse_lookup/enable_user_dict: false
@@ -14,5 +15,5 @@ patch:
 
   
   # Disable auto-commit on 5 characters (Force spacebar to commit)
-  "speller/commit_on_completion": false
-
+  speller/commit_on_completion: false
+  # "speller/commit_on_completion": true

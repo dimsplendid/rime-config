@@ -60,7 +60,8 @@ speller:
 
 translator:
   dictionary: newcj
-  enable_charset_filter: true
+  # enable_charset_filter: true
+  enable_charset_filter: false
   enable_completion: true
   enable_sentence: false
   encode_commit_history: true
